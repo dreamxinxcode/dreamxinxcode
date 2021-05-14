@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with: my golf swing.
 - 💬 Ask me about: The meaning of life.
 - 📫 How to reach me: brandon@dreamincode.dev
-- ⚡ Fun fact: I wash my hands alot.
+- 👾 Fun fact: I wash my hands alot.
 
 ## ⚡ Technologies
 
