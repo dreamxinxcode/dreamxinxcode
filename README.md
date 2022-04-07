@@ -10,7 +10,7 @@
 
 ## ⚡ Technologies
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Nodejs](https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=Node.js)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
