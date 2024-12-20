@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: Ionic Fitness App.
+- 🔭 I’m currently working on: DataWave market data visualizer.
 - 💬 Ask me about: The meaning of life.
 - 📫 How to reach me: brandon@dreamincode.dev
 - 👾 Fun fact: I wash my hands alot.
